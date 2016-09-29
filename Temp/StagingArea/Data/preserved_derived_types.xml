@@ -1,0 +1,58 @@
+<linker>
+<assembly fullname="Assembly-CSharp-firstpass">
+<type fullname="UnityStandardAssets.ImageEffects.Antialiasing" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.Bloom" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.BloomAndFlares" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.BloomOptimized" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.Blur" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.BlurOptimized" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.CameraMotionBlur" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.ColorCorrectionCurves" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.ColorCorrectionLookup" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.ColorCorrectionRamp" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.ContrastEnhance" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.ContrastStretch" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.CreaseShading" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.DepthOfField" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.DepthOfFieldDeprecated" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.EdgeDetection" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.Fisheye" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.GlobalFog" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.Grayscale" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.ImageEffectBase" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.MotionBlur" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.NoiseAndGrain" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.NoiseAndScratches" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.PostEffectsBase" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.PostEffectsHelper" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.ScreenOverlay" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.ScreenSpaceAmbientObscurance" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.ScreenSpaceAmbientOcclusion" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.SepiaTone" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.SunShafts" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.TiltShift" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.Tonemapping" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.Twirl" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.VignetteAndChromaticAberration" preserve="all"/>
+<type fullname="UnityStandardAssets.ImageEffects.Vortex" preserve="all"/>
+</assembly>
+<assembly fullname="Assembly-CSharp">
+<type fullname="Done_BGScroller" preserve="all"/>
+<type fullname="Done_DestroyByBoundary" preserve="all"/>
+<type fullname="Done_DestroyByContact" preserve="all"/>
+<type fullname="Done_DestroyByTime" preserve="all"/>
+<type fullname="Done_EvasiveManeuver" preserve="all"/>
+<type fullname="Done_GameController" preserve="all"/>
+<type fullname="Done_Mover" preserve="all"/>
+<type fullname="Done_PlayerController" preserve="all"/>
+<type fullname="Done_RandomRotator" preserve="all"/>
+<type fullname="Done_WeaponController" preserve="all"/>
+<type fullname="DestroyByBoundary" preserve="all"/>
+<type fullname="DestroyByTime" preserve="all"/>
+<type fullname="DestroybyContact" preserve="all"/>
+<type fullname="GameController" preserve="all"/>
+<type fullname="Mover" preserve="all"/>
+<type fullname="PlayerController" preserve="all"/>
+<type fullname="RandomRotator" preserve="all"/>
+</assembly>
+</linker>
